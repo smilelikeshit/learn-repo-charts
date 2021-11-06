@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  app-example:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-06T16:28:21.61069+07:00"
+    description: A Helm chart for Kubernetes
+    digest: b5b99423839e6f14dfe49c2d4194c6e19620252368a6001337536bcf9b199773
+    name: app-example
+    type: application
+    urls:
+    - https://smilelikeshit.github.io/learn-repo-charts/app-example-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-06T16:28:21.60921+07:00"
